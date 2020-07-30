@@ -29,18 +29,18 @@
 * git
 
 ## 활동
-### Kurien's Blog 개발
-현재 개인 프로젝트로 블로그를 제작 및 운영하고 있으며, 블로그 확장을 통해 여러가지 서비스를 구현하고 있습니다.<br><br>
+### [Kurien's Blog 개발](https://github.com/kurien92/kreBlog)
+현재 개인 프로젝트로 [블로그](https://www.kurien.net)를 제작 및 운영하고 있으며, 블로그 확장을 통해 여러가지 서비스를 구현하고 있습니다.<br><br>
 ***사용스킬***
-* HTML/CSS
+* HTML/CSS - 반응형 웹 적용
 * Javascript/jQuery
 * Java/Spring
 * CentOS
 * Docker
-* nginx
+* nginx - Reverse Proxy, SSL
 * Tomcat
 * MariaDB
-* Redis
-* Jenkins
+* Redis - Session Clustering
+* Jenkins - Github를 이용한 자동배포
 
 
